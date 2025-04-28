@@ -5,4 +5,4 @@ Copy and pase a file you want and use it.
 
 Currently available
 
-[ V ]: Bchalk "a bun first chalk alternative"
+Bchalk: "a bun first chalk alternative"
