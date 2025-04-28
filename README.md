@@ -1,15 +1,8 @@
-# monitor
+# Blib
 
-To install dependencies:
+Blib is a micro library repo to pick and choose from in your project, no npm support.
+Copy and pase a file you want and use it.
 
-```bash
-bun install
-```
+Currently avaialable
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.2. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+[V]: Bchalk "a bun first chalk alternative"
